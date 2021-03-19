@@ -1,6 +1,6 @@
 class pessoa{
 	public:
-	pessoa();
+		pessoa();
 		string nome;
 		string cpf;
 		string email;
